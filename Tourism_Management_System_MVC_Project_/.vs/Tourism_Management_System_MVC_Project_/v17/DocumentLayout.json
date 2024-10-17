@@ -1,0 +1,183 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\MVC and API\\Tourism_Management_System_MVC_Project_\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1A66F250-BCF5-44CF-94E0-389C22C64D17}|Tourism_Management_System_MVC_Project_\\Tourism_Management_System_MVC_Project_.csproj|f:\\mvc and api\\tourism_management_system_mvc_project_\\tourism_management_system_mvc_project_\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A66F250-BCF5-44CF-94E0-389C22C64D17}|Tourism_Management_System_MVC_Project_\\Tourism_Management_System_MVC_Project_.csproj|solutionrelative:tourism_management_system_mvc_project_\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A66F250-BCF5-44CF-94E0-389C22C64D17}|Tourism_Management_System_MVC_Project_\\Tourism_Management_System_MVC_Project_.csproj|f:\\mvc and api\\tourism_management_system_mvc_project_\\tourism_management_system_mvc_project_\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A66F250-BCF5-44CF-94E0-389C22C64D17}|Tourism_Management_System_MVC_Project_\\Tourism_Management_System_MVC_Project_.csproj|solutionrelative:tourism_management_system_mvc_project_\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A66F250-BCF5-44CF-94E0-389C22C64D17}|Tourism_Management_System_MVC_Project_\\Tourism_Management_System_MVC_Project_.csproj|f:\\mvc and api\\tourism_management_system_mvc_project_\\tourism_management_system_mvc_project_\\controllers\\bookingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A66F250-BCF5-44CF-94E0-389C22C64D17}|Tourism_Management_System_MVC_Project_\\Tourism_Management_System_MVC_Project_.csproj|solutionrelative:tourism_management_system_mvc_project_\\controllers\\bookingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A66F250-BCF5-44CF-94E0-389C22C64D17}|Tourism_Management_System_MVC_Project_\\Tourism_Management_System_MVC_Project_.csproj|f:\\mvc and api\\tourism_management_system_mvc_project_\\tourism_management_system_mvc_project_\\controllers\\reviewscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A66F250-BCF5-44CF-94E0-389C22C64D17}|Tourism_Management_System_MVC_Project_\\Tourism_Management_System_MVC_Project_.csproj|solutionrelative:tourism_management_system_mvc_project_\\controllers\\reviewscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A66F250-BCF5-44CF-94E0-389C22C64D17}|Tourism_Management_System_MVC_Project_\\Tourism_Management_System_MVC_Project_.csproj|f:\\mvc and api\\tourism_management_system_mvc_project_\\tourism_management_system_mvc_project_\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1A66F250-BCF5-44CF-94E0-389C22C64D17}|Tourism_Management_System_MVC_Project_\\Tourism_Management_System_MVC_Project_.csproj|solutionrelative:tourism_management_system_mvc_project_\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A66F250-BCF5-44CF-94E0-389C22C64D17}|Tourism_Management_System_MVC_Project_\\Tourism_Management_System_MVC_Project_.csproj|f:\\mvc and api\\tourism_management_system_mvc_project_\\tourism_management_system_mvc_project_\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1A66F250-BCF5-44CF-94E0-389C22C64D17}|Tourism_Management_System_MVC_Project_\\Tourism_Management_System_MVC_Project_.csproj|solutionrelative:tourism_management_system_mvc_project_\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A66F250-BCF5-44CF-94E0-389C22C64D17}|Tourism_Management_System_MVC_Project_\\Tourism_Management_System_MVC_Project_.csproj|f:\\mvc and api\\tourism_management_system_mvc_project_\\tourism_management_system_mvc_project_\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A66F250-BCF5-44CF-94E0-389C22C64D17}|Tourism_Management_System_MVC_Project_\\Tourism_Management_System_MVC_Project_.csproj|solutionrelative:tourism_management_system_mvc_project_\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A66F250-BCF5-44CF-94E0-389C22C64D17}|Tourism_Management_System_MVC_Project_\\Tourism_Management_System_MVC_Project_.csproj|f:\\mvc and api\\tourism_management_system_mvc_project_\\tourism_management_system_mvc_project_\\models\\tourpackages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A66F250-BCF5-44CF-94E0-389C22C64D17}|Tourism_Management_System_MVC_Project_\\Tourism_Management_System_MVC_Project_.csproj|solutionrelative:tourism_management_system_mvc_project_\\models\\tourpackages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A66F250-BCF5-44CF-94E0-389C22C64D17}|Tourism_Management_System_MVC_Project_\\Tourism_Management_System_MVC_Project_.csproj|f:\\mvc and api\\tourism_management_system_mvc_project_\\tourism_management_system_mvc_project_\\models\\reviews.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A66F250-BCF5-44CF-94E0-389C22C64D17}|Tourism_Management_System_MVC_Project_\\Tourism_Management_System_MVC_Project_.csproj|solutionrelative:tourism_management_system_mvc_project_\\models\\reviews.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A66F250-BCF5-44CF-94E0-389C22C64D17}|Tourism_Management_System_MVC_Project_\\Tourism_Management_System_MVC_Project_.csproj|f:\\mvc and api\\tourism_management_system_mvc_project_\\tourism_management_system_mvc_project_\\models\\bookings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A66F250-BCF5-44CF-94E0-389C22C64D17}|Tourism_Management_System_MVC_Project_\\Tourism_Management_System_MVC_Project_.csproj|solutionrelative:tourism_management_system_mvc_project_\\models\\bookings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\MVC and API\\Tourism_Management_System_MVC_Project_\\Tourism_Management_System_MVC_Project_\\appsettings.json",
+              "RelativeDocumentMoniker": "Tourism_Management_System_MVC_Project_\\appsettings.json",
+              "ToolTip": "F:\\MVC and API\\Tourism_Management_System_MVC_Project_\\Tourism_Management_System_MVC_Project_\\appsettings.json",
+              "RelativeToolTip": "Tourism_Management_System_MVC_Project_\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-17T10:49:26.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ReviewsController.cs",
+              "DocumentMoniker": "F:\\MVC and API\\Tourism_Management_System_MVC_Project_\\Tourism_Management_System_MVC_Project_\\Controllers\\ReviewsController.cs",
+              "RelativeDocumentMoniker": "Tourism_Management_System_MVC_Project_\\Controllers\\ReviewsController.cs",
+              "ToolTip": "F:\\MVC and API\\Tourism_Management_System_MVC_Project_\\Tourism_Management_System_MVC_Project_\\Controllers\\ReviewsController.cs",
+              "RelativeToolTip": "Tourism_Management_System_MVC_Project_\\Controllers\\ReviewsController.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAwwGwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T10:40:11.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookingsController.cs",
+              "DocumentMoniker": "F:\\MVC and API\\Tourism_Management_System_MVC_Project_\\Tourism_Management_System_MVC_Project_\\Controllers\\BookingsController.cs",
+              "RelativeDocumentMoniker": "Tourism_Management_System_MVC_Project_\\Controllers\\BookingsController.cs",
+              "ToolTip": "F:\\MVC and API\\Tourism_Management_System_MVC_Project_\\Tourism_Management_System_MVC_Project_\\Controllers\\BookingsController.cs",
+              "RelativeToolTip": "Tourism_Management_System_MVC_Project_\\Controllers\\BookingsController.cs",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAqwG4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T09:49:55.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "F:\\MVC and API\\Tourism_Management_System_MVC_Project_\\Tourism_Management_System_MVC_Project_\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Tourism_Management_System_MVC_Project_\\Controllers\\UserController.cs",
+              "ToolTip": "F:\\MVC and API\\Tourism_Management_System_MVC_Project_\\Tourism_Management_System_MVC_Project_\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Tourism_Management_System_MVC_Project_\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwHQAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T12:48:57.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "F:\\MVC and API\\Tourism_Management_System_MVC_Project_\\Tourism_Management_System_MVC_Project_\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Tourism_Management_System_MVC_Project_\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "F:\\MVC and API\\Tourism_Management_System_MVC_Project_\\Tourism_Management_System_MVC_Project_\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Tourism_Management_System_MVC_Project_\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAkwCIAAAB1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-16T13:19:41.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\MVC and API\\Tourism_Management_System_MVC_Project_\\Tourism_Management_System_MVC_Project_\\Program.cs",
+              "RelativeDocumentMoniker": "Tourism_Management_System_MVC_Project_\\Program.cs",
+              "ToolTip": "F:\\MVC and API\\Tourism_Management_System_MVC_Project_\\Tourism_Management_System_MVC_Project_\\Program.cs",
+              "RelativeToolTip": "Tourism_Management_System_MVC_Project_\\Program.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAQwDYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T12:53:47.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TourPackages.cs",
+              "DocumentMoniker": "F:\\MVC and API\\Tourism_Management_System_MVC_Project_\\Tourism_Management_System_MVC_Project_\\Models\\TourPackages.cs",
+              "RelativeDocumentMoniker": "Tourism_Management_System_MVC_Project_\\Models\\TourPackages.cs",
+              "ToolTip": "F:\\MVC and API\\Tourism_Management_System_MVC_Project_\\Tourism_Management_System_MVC_Project_\\Models\\TourPackages.cs",
+              "RelativeToolTip": "Tourism_Management_System_MVC_Project_\\Models\\TourPackages.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T12:46:47.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Reviews.cs",
+              "DocumentMoniker": "F:\\MVC and API\\Tourism_Management_System_MVC_Project_\\Tourism_Management_System_MVC_Project_\\Models\\Reviews.cs",
+              "RelativeDocumentMoniker": "Tourism_Management_System_MVC_Project_\\Models\\Reviews.cs",
+              "ToolTip": "F:\\MVC and API\\Tourism_Management_System_MVC_Project_\\Tourism_Management_System_MVC_Project_\\Models\\Reviews.cs",
+              "RelativeToolTip": "Tourism_Management_System_MVC_Project_\\Models\\Reviews.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T04:54:28.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Users.cs",
+              "DocumentMoniker": "F:\\MVC and API\\Tourism_Management_System_MVC_Project_\\Tourism_Management_System_MVC_Project_\\Models\\Users.cs",
+              "RelativeDocumentMoniker": "Tourism_Management_System_MVC_Project_\\Models\\Users.cs",
+              "ToolTip": "F:\\MVC and API\\Tourism_Management_System_MVC_Project_\\Tourism_Management_System_MVC_Project_\\Models\\Users.cs",
+              "RelativeToolTip": "Tourism_Management_System_MVC_Project_\\Models\\Users.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowCIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T04:43:50.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Bookings.cs",
+              "DocumentMoniker": "F:\\MVC and API\\Tourism_Management_System_MVC_Project_\\Tourism_Management_System_MVC_Project_\\Models\\Bookings.cs",
+              "RelativeDocumentMoniker": "Tourism_Management_System_MVC_Project_\\Models\\Bookings.cs",
+              "ToolTip": "F:\\MVC and API\\Tourism_Management_System_MVC_Project_\\Tourism_Management_System_MVC_Project_\\Models\\Bookings.cs",
+              "RelativeToolTip": "Tourism_Management_System_MVC_Project_\\Models\\Bookings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T04:44:26.967Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

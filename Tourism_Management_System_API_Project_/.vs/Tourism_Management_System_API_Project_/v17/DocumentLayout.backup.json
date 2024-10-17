@@ -1,0 +1,353 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Tourism_Management_System_API_Project_\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B1735028-850D-46EE-82B4-7753DA4025C5}|Tourism_Management_System_API_Project_\\Tourism_Management_System_API_Project_.csproj|f:\\tourism_management_system_api_project_\\tourism_management_system_api_project_\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1735028-850D-46EE-82B4-7753DA4025C5}|Tourism_Management_System_API_Project_\\Tourism_Management_System_API_Project_.csproj|solutionrelative:tourism_management_system_api_project_\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dell\\AppData\\Local\\SourceServer\\000daf737872787639f0642501414e2010c0fba0479b1c628e889975ab3199cf\\Controllers\\UserController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1735028-850D-46EE-82B4-7753DA4025C5}|Tourism_Management_System_API_Project_\\Tourism_Management_System_API_Project_.csproj|f:\\tourism_management_system_api_project_\\tourism_management_system_api_project_\\authentication\\userroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1735028-850D-46EE-82B4-7753DA4025C5}|Tourism_Management_System_API_Project_\\Tourism_Management_System_API_Project_.csproj|solutionrelative:tourism_management_system_api_project_\\authentication\\userroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1735028-850D-46EE-82B4-7753DA4025C5}|Tourism_Management_System_API_Project_\\Tourism_Management_System_API_Project_.csproj|f:\\tourism_management_system_api_project_\\tourism_management_system_api_project_\\controllers\\tourpackagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1735028-850D-46EE-82B4-7753DA4025C5}|Tourism_Management_System_API_Project_\\Tourism_Management_System_API_Project_.csproj|solutionrelative:tourism_management_system_api_project_\\controllers\\tourpackagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1735028-850D-46EE-82B4-7753DA4025C5}|Tourism_Management_System_API_Project_\\Tourism_Management_System_API_Project_.csproj|f:\\tourism_management_system_api_project_\\tourism_management_system_api_project_\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1735028-850D-46EE-82B4-7753DA4025C5}|Tourism_Management_System_API_Project_\\Tourism_Management_System_API_Project_.csproj|solutionrelative:tourism_management_system_api_project_\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1735028-850D-46EE-82B4-7753DA4025C5}|Tourism_Management_System_API_Project_\\Tourism_Management_System_API_Project_.csproj|f:\\tourism_management_system_api_project_\\tourism_management_system_api_project_\\models\\usermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1735028-850D-46EE-82B4-7753DA4025C5}|Tourism_Management_System_API_Project_\\Tourism_Management_System_API_Project_.csproj|solutionrelative:tourism_management_system_api_project_\\models\\usermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1735028-850D-46EE-82B4-7753DA4025C5}|Tourism_Management_System_API_Project_\\Tourism_Management_System_API_Project_.csproj|f:\\tourism_management_system_api_project_\\tourism_management_system_api_project_\\authenticationservices\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1735028-850D-46EE-82B4-7753DA4025C5}|Tourism_Management_System_API_Project_\\Tourism_Management_System_API_Project_.csproj|solutionrelative:tourism_management_system_api_project_\\authenticationservices\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1735028-850D-46EE-82B4-7753DA4025C5}|Tourism_Management_System_API_Project_\\Tourism_Management_System_API_Project_.csproj|f:\\tourism_management_system_api_project_\\tourism_management_system_api_project_\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1735028-850D-46EE-82B4-7753DA4025C5}|Tourism_Management_System_API_Project_\\Tourism_Management_System_API_Project_.csproj|solutionrelative:tourism_management_system_api_project_\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1735028-850D-46EE-82B4-7753DA4025C5}|Tourism_Management_System_API_Project_\\Tourism_Management_System_API_Project_.csproj|f:\\tourism_management_system_api_project_\\tourism_management_system_api_project_\\services\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1735028-850D-46EE-82B4-7753DA4025C5}|Tourism_Management_System_API_Project_\\Tourism_Management_System_API_Project_.csproj|solutionrelative:tourism_management_system_api_project_\\services\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1735028-850D-46EE-82B4-7753DA4025C5}|Tourism_Management_System_API_Project_\\Tourism_Management_System_API_Project_.csproj|f:\\tourism_management_system_api_project_\\tourism_management_system_api_project_\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B1735028-850D-46EE-82B4-7753DA4025C5}|Tourism_Management_System_API_Project_\\Tourism_Management_System_API_Project_.csproj|solutionrelative:tourism_management_system_api_project_\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1735028-850D-46EE-82B4-7753DA4025C5}|Tourism_Management_System_API_Project_\\Tourism_Management_System_API_Project_.csproj|f:\\tourism_management_system_api_project_\\tourism_management_system_api_project_\\services\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1735028-850D-46EE-82B4-7753DA4025C5}|Tourism_Management_System_API_Project_\\Tourism_Management_System_API_Project_.csproj|solutionrelative:tourism_management_system_api_project_\\services\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1735028-850D-46EE-82B4-7753DA4025C5}|Tourism_Management_System_API_Project_\\Tourism_Management_System_API_Project_.csproj|f:\\tourism_management_system_api_project_\\tourism_management_system_api_project_\\services\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1735028-850D-46EE-82B4-7753DA4025C5}|Tourism_Management_System_API_Project_\\Tourism_Management_System_API_Project_.csproj|solutionrelative:tourism_management_system_api_project_\\services\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1735028-850D-46EE-82B4-7753DA4025C5}|Tourism_Management_System_API_Project_\\Tourism_Management_System_API_Project_.csproj|f:\\tourism_management_system_api_project_\\tourism_management_system_api_project_\\controllers\\paymentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1735028-850D-46EE-82B4-7753DA4025C5}|Tourism_Management_System_API_Project_\\Tourism_Management_System_API_Project_.csproj|solutionrelative:tourism_management_system_api_project_\\controllers\\paymentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1735028-850D-46EE-82B4-7753DA4025C5}|Tourism_Management_System_API_Project_\\Tourism_Management_System_API_Project_.csproj|f:\\tourism_management_system_api_project_\\tourism_management_system_api_project_\\services\\ipaymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1735028-850D-46EE-82B4-7753DA4025C5}|Tourism_Management_System_API_Project_\\Tourism_Management_System_API_Project_.csproj|solutionrelative:tourism_management_system_api_project_\\services\\ipaymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1735028-850D-46EE-82B4-7753DA4025C5}|Tourism_Management_System_API_Project_\\Tourism_Management_System_API_Project_.csproj|f:\\tourism_management_system_api_project_\\tourism_management_system_api_project_\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1735028-850D-46EE-82B4-7753DA4025C5}|Tourism_Management_System_API_Project_\\Tourism_Management_System_API_Project_.csproj|solutionrelative:tourism_management_system_api_project_\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1735028-850D-46EE-82B4-7753DA4025C5}|Tourism_Management_System_API_Project_\\Tourism_Management_System_API_Project_.csproj|f:\\tourism_management_system_api_project_\\tourism_management_system_api_project_\\services\\bookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1735028-850D-46EE-82B4-7753DA4025C5}|Tourism_Management_System_API_Project_\\Tourism_Management_System_API_Project_.csproj|solutionrelative:tourism_management_system_api_project_\\services\\bookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1735028-850D-46EE-82B4-7753DA4025C5}|Tourism_Management_System_API_Project_\\Tourism_Management_System_API_Project_.csproj|f:\\tourism_management_system_api_project_\\tourism_management_system_api_project_\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1735028-850D-46EE-82B4-7753DA4025C5}|Tourism_Management_System_API_Project_\\Tourism_Management_System_API_Project_.csproj|solutionrelative:tourism_management_system_api_project_\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1735028-850D-46EE-82B4-7753DA4025C5}|Tourism_Management_System_API_Project_\\Tourism_Management_System_API_Project_.csproj|f:\\tourism_management_system_api_project_\\tourism_management_system_api_project_\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1735028-850D-46EE-82B4-7753DA4025C5}|Tourism_Management_System_API_Project_\\Tourism_Management_System_API_Project_.csproj|solutionrelative:tourism_management_system_api_project_\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1735028-850D-46EE-82B4-7753DA4025C5}|Tourism_Management_System_API_Project_\\Tourism_Management_System_API_Project_.csproj|f:\\tourism_management_system_api_project_\\tourism_management_system_api_project_\\mappingprofile\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1735028-850D-46EE-82B4-7753DA4025C5}|Tourism_Management_System_API_Project_\\Tourism_Management_System_API_Project_.csproj|solutionrelative:tourism_management_system_api_project_\\mappingprofile\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1735028-850D-46EE-82B4-7753DA4025C5}|Tourism_Management_System_API_Project_\\Tourism_Management_System_API_Project_.csproj|f:\\tourism_management_system_api_project_\\tourism_management_system_api_project_\\dto\\createbookingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1735028-850D-46EE-82B4-7753DA4025C5}|Tourism_Management_System_API_Project_\\Tourism_Management_System_API_Project_.csproj|solutionrelative:tourism_management_system_api_project_\\dto\\createbookingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 17,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserRoles.cs",
+              "DocumentMoniker": "F:\\Tourism_Management_System_API_Project_\\Tourism_Management_System_API_Project_\\Authentication\\UserRoles.cs",
+              "RelativeDocumentMoniker": "Tourism_Management_System_API_Project_\\Authentication\\UserRoles.cs",
+              "ToolTip": "F:\\Tourism_Management_System_API_Project_\\Tourism_Management_System_API_Project_\\Authentication\\UserRoles.cs",
+              "RelativeToolTip": "Tourism_Management_System_API_Project_\\Authentication\\UserRoles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T11:12:09.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\AppData\\Local\\SourceServer\\000daf737872787639f0642501414e2010c0fba0479b1c628e889975ab3199cf\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\dell\\AppData\\Local\\SourceServer\\000daf737872787639f0642501414e2010c0fba0479b1c628e889975ab3199cf\\Controllers\\UserController.cs [Read Only]",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAwwAAAAAAAAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T11:11:12.035Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserManagement.cs",
+              "DocumentMoniker": "F:\\Tourism_Management_System_API_Project_\\Tourism_Management_System_API_Project_\\Models\\UserManagement.cs",
+              "RelativeDocumentMoniker": "Tourism_Management_System_API_Project_\\Models\\UserManagement.cs",
+              "ToolTip": "F:\\Tourism_Management_System_API_Project_\\Tourism_Management_System_API_Project_\\Models\\UserManagement.cs",
+              "RelativeToolTip": "Tourism_Management_System_API_Project_\\Models\\UserManagement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T09:12:25.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "F:\\Tourism_Management_System_API_Project_\\Tourism_Management_System_API_Project_\\DTO\\UserDTO.cs",
+              "RelativeDocumentMoniker": "Tourism_Management_System_API_Project_\\DTO\\UserDTO.cs",
+              "ToolTip": "F:\\Tourism_Management_System_API_Project_\\Tourism_Management_System_API_Project_\\DTO\\UserDTO.cs",
+              "RelativeToolTip": "Tourism_Management_System_API_Project_\\DTO\\UserDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T09:12:08.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "F:\\Tourism_Management_System_API_Project_\\Tourism_Management_System_API_Project_\\Services\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Tourism_Management_System_API_Project_\\Services\\IUserRepository.cs",
+              "ToolTip": "F:\\Tourism_Management_System_API_Project_\\Tourism_Management_System_API_Project_\\Services\\IUserRepository.cs",
+              "RelativeToolTip": "Tourism_Management_System_API_Project_\\Services\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T07:06:08.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "F:\\Tourism_Management_System_API_Project_\\Tourism_Management_System_API_Project_\\Services\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Tourism_Management_System_API_Project_\\Services\\UserRepository.cs",
+              "ToolTip": "F:\\Tourism_Management_System_API_Project_\\Tourism_Management_System_API_Project_\\Services\\UserRepository.cs",
+              "RelativeToolTip": "Tourism_Management_System_API_Project_\\Services\\UserRepository.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBcAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T07:05:46.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IPaymentService.cs",
+              "DocumentMoniker": "F:\\Tourism_Management_System_API_Project_\\Tourism_Management_System_API_Project_\\Services\\IPaymentService.cs",
+              "RelativeDocumentMoniker": "Tourism_Management_System_API_Project_\\Services\\IPaymentService.cs",
+              "ToolTip": "F:\\Tourism_Management_System_API_Project_\\Tourism_Management_System_API_Project_\\Services\\IPaymentService.cs",
+              "RelativeToolTip": "Tourism_Management_System_API_Project_\\Services\\IPaymentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T06:53:10.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PaymentService.cs",
+              "DocumentMoniker": "F:\\Tourism_Management_System_API_Project_\\Tourism_Management_System_API_Project_\\Services\\PaymentService.cs",
+              "RelativeDocumentMoniker": "Tourism_Management_System_API_Project_\\Services\\PaymentService.cs",
+              "ToolTip": "F:\\Tourism_Management_System_API_Project_\\Tourism_Management_System_API_Project_\\Services\\PaymentService.cs",
+              "RelativeToolTip": "Tourism_Management_System_API_Project_\\Services\\PaymentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T06:49:20.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BookingController.cs",
+              "DocumentMoniker": "F:\\Tourism_Management_System_API_Project_\\Tourism_Management_System_API_Project_\\Controllers\\BookingController.cs",
+              "RelativeDocumentMoniker": "Tourism_Management_System_API_Project_\\Controllers\\BookingController.cs",
+              "ToolTip": "F:\\Tourism_Management_System_API_Project_\\Tourism_Management_System_API_Project_\\Controllers\\BookingController.cs",
+              "RelativeToolTip": "Tourism_Management_System_API_Project_\\Controllers\\BookingController.cs",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAgwIkAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T06:49:10.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PaymentsController.cs",
+              "DocumentMoniker": "F:\\Tourism_Management_System_API_Project_\\Tourism_Management_System_API_Project_\\Controllers\\PaymentsController.cs",
+              "RelativeDocumentMoniker": "Tourism_Management_System_API_Project_\\Controllers\\PaymentsController.cs",
+              "ToolTip": "F:\\Tourism_Management_System_API_Project_\\Tourism_Management_System_API_Project_\\Controllers\\PaymentsController.cs",
+              "RelativeToolTip": "Tourism_Management_System_API_Project_\\Controllers\\PaymentsController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAF0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T06:48:19.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BookingRepository.cs",
+              "DocumentMoniker": "F:\\Tourism_Management_System_API_Project_\\Tourism_Management_System_API_Project_\\Services\\BookingRepository.cs",
+              "RelativeDocumentMoniker": "Tourism_Management_System_API_Project_\\Services\\BookingRepository.cs",
+              "ToolTip": "F:\\Tourism_Management_System_API_Project_\\Tourism_Management_System_API_Project_\\Services\\BookingRepository.cs",
+              "RelativeToolTip": "Tourism_Management_System_API_Project_\\Services\\BookingRepository.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAgwEIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T06:47:50.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthenticationService.cs",
+              "DocumentMoniker": "F:\\Tourism_Management_System_API_Project_\\Tourism_Management_System_API_Project_\\AuthenticationServices\\AuthenticationService.cs",
+              "RelativeDocumentMoniker": "Tourism_Management_System_API_Project_\\AuthenticationServices\\AuthenticationService.cs",
+              "ToolTip": "F:\\Tourism_Management_System_API_Project_\\Tourism_Management_System_API_Project_\\AuthenticationServices\\AuthenticationService.cs",
+              "RelativeToolTip": "Tourism_Management_System_API_Project_\\AuthenticationServices\\AuthenticationService.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAwwFAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T06:14:09.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Tourism_Management_System_API_Project_\\Tourism_Management_System_API_Project_\\Program.cs",
+              "RelativeDocumentMoniker": "Tourism_Management_System_API_Project_\\Program.cs",
+              "ToolTip": "F:\\Tourism_Management_System_API_Project_\\Tourism_Management_System_API_Project_\\Program.cs",
+              "RelativeToolTip": "Tourism_Management_System_API_Project_\\Program.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAAACkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T06:37:18.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TourPackageController.cs",
+              "DocumentMoniker": "F:\\Tourism_Management_System_API_Project_\\Tourism_Management_System_API_Project_\\Controllers\\TourPackageController.cs",
+              "RelativeDocumentMoniker": "Tourism_Management_System_API_Project_\\Controllers\\TourPackageController.cs",
+              "ToolTip": "F:\\Tourism_Management_System_API_Project_\\Tourism_Management_System_API_Project_\\Controllers\\TourPackageController.cs",
+              "RelativeToolTip": "Tourism_Management_System_API_Project_\\Controllers\\TourPackageController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAwAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T03:22:04.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "F:\\Tourism_Management_System_API_Project_\\Tourism_Management_System_API_Project_\\Models\\Payment.cs",
+              "RelativeDocumentMoniker": "Tourism_Management_System_API_Project_\\Models\\Payment.cs",
+              "ToolTip": "F:\\Tourism_Management_System_API_Project_\\Tourism_Management_System_API_Project_\\Models\\Payment.cs",
+              "RelativeToolTip": "Tourism_Management_System_API_Project_\\Models\\Payment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T08:04:34.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "F:\\Tourism_Management_System_API_Project_\\Tourism_Management_System_API_Project_\\MappingProfile\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "Tourism_Management_System_API_Project_\\MappingProfile\\MappingProfile.cs",
+              "ToolTip": "F:\\Tourism_Management_System_API_Project_\\Tourism_Management_System_API_Project_\\MappingProfile\\MappingProfile.cs",
+              "RelativeToolTip": "Tourism_Management_System_API_Project_\\MappingProfile\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T07:36:09.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CreateBookingDto.cs",
+              "DocumentMoniker": "F:\\Tourism_Management_System_API_Project_\\Tourism_Management_System_API_Project_\\DTO\\CreateBookingDto.cs",
+              "RelativeDocumentMoniker": "Tourism_Management_System_API_Project_\\DTO\\CreateBookingDto.cs",
+              "ToolTip": "F:\\Tourism_Management_System_API_Project_\\Tourism_Management_System_API_Project_\\DTO\\CreateBookingDto.cs",
+              "RelativeToolTip": "Tourism_Management_System_API_Project_\\DTO\\CreateBookingDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T07:24:16.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "F:\\Tourism_Management_System_API_Project_\\Tourism_Management_System_API_Project_\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Tourism_Management_System_API_Project_\\Controllers\\UserController.cs",
+              "ToolTip": "F:\\Tourism_Management_System_API_Project_\\Tourism_Management_System_API_Project_\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Tourism_Management_System_API_Project_\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAwwJsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T06:49:33.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "F:\\Tourism_Management_System_API_Project_\\Tourism_Management_System_API_Project_\\Models\\Booking.cs",
+              "RelativeDocumentMoniker": "Tourism_Management_System_API_Project_\\Models\\Booking.cs",
+              "ToolTip": "F:\\Tourism_Management_System_API_Project_\\Tourism_Management_System_API_Project_\\Models\\Booking.cs",
+              "RelativeToolTip": "Tourism_Management_System_API_Project_\\Models\\Booking.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T04:43:41.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\Tourism_Management_System_API_Project_\\Tourism_Management_System_API_Project_\\appsettings.json",
+              "RelativeDocumentMoniker": "Tourism_Management_System_API_Project_\\appsettings.json",
+              "ToolTip": "F:\\Tourism_Management_System_API_Project_\\Tourism_Management_System_API_Project_\\appsettings.json",
+              "RelativeToolTip": "Tourism_Management_System_API_Project_\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-15T06:14:53.206Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
